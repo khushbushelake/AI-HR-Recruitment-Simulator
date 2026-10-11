@@ -118,5 +118,5 @@ App runs at http://localhost:5173
 
 ## 👩‍💻 Author
 
-**A R Renita** — B.Tech CSE (Big Data Analytics), SRM Institute of Science and Technology
-GitHub: [@arrenita29](https://github.com/arrenita29)
+**Khushbu Uttam Shelake** — B.Tech CSE (Data Science), JSS Academy of Technical Education Noida
+GitHub: https://github.com/khushbushelake
