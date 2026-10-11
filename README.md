@@ -119,4 +119,5 @@ App runs at http://localhost:5173
 ## 👩‍💻 Author
 
 **Khushbu Uttam Shelake** — B.Tech CSE (Data Science), JSS Academy of Technical Education Noida
+
 GitHub: https://github.com/khushbushelake
